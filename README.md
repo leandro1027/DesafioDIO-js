@@ -1,2 +1,2 @@
 # DesafioDIO-js
-Desafio da DIO formação GFT.
+Desafio da DIO formação GFT. (básico)
